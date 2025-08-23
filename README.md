@@ -5,3 +5,4 @@ tomcat credential not was selected in the jenkins job number4
 now we have added ANT version in the job forth for the war file
 tomcat crdentials selected as a default
 in the user config file the role <role rolename="manager-script"/> was not added, so added it
+while entering the "manager-script" t was missed while entering it
